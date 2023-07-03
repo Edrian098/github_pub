@@ -1,0 +1,4 @@
+scp -r /root@172.16.100.14:/var/lib/jenkins/workspace/test_ed :/var/www/html
+
+
+scp root@172.16.100.14:/var/lib/jenkins/workspace/test_ed/ :/var/www/html
