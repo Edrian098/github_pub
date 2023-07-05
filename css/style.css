@@ -471,7 +471,7 @@ a:focus {
   padding: 10px 15px;
   background-color: #f07b26;
   color: #ffffff;
-  border-radius: 0;
+  border-radius: 20px;
   -webkit-transition: all .3s;
   transition: all .3s;
   border: none;
@@ -486,7 +486,7 @@ a:focus {
   padding: 10px 15px;
   background-color: #000000;
   color: #ffffff;
-  border-radius: 0;
+  border-radius: 20px;
   -webkit-transition: all .3s;
   transition: all .3s;
   border: none;
