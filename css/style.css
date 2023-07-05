@@ -475,6 +475,7 @@ a:focus {
   -webkit-transition: all .3s;
   transition: all .3s;
   border: none;
+  
 }
 
 .slider_section .detail-box .btn-box .btn1:hover {
